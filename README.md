@@ -12,3 +12,10 @@
     <img src="https://raw.githubusercontent.com/ayushsharma82/ayushsharma82/main/assets/dark/banner-2.png" alt="SOFTT" />
   </picture>
 </a>
+<a href="https://softt.io?ref=gitbanner3" target="_blank">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/ayushsharma82/ayushsharma82/main/assets/dark/banner-3.png" media="(prefers-color-scheme: dark)">
+    <source srcset="https://raw.githubusercontent.com/ayushsharma82/ayushsharma82/main/assets/dark/banner-3.png" media="(prefers-color-scheme: light)">
+    <img src="https://raw.githubusercontent.com/ayushsharma82/ayushsharma82/main/assets/dark/banner-3.png" alt="SOFTT" />
+  </picture>
+</a>
